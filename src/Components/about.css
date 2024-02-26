@@ -1,0 +1,59 @@
+/* about.css */
+
+.About {
+  background-color: #f9f9f9;
+  padding: 20px;
+}
+
+.About-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.About-content {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* contact.css */
+
+.Contact {
+  background-color: #e6e6e6;
+  padding: 20px;
+}
+
+.Contact-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.Contact-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.Contact-input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.Contact-textarea {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.Contact-submit {
+  width: 100%;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.Contact-submit:hover {
+  background-color: #555;
+}
